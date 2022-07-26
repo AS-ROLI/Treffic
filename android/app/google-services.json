@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551138615997",
+    "project_id": "stsdic",
+    "storage_bucket": "stsdic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551138615997:android:ed919aec2ae90fd9d98dd4",
+        "android_client_info": {
+          "package_name": "com.Traffic.sts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551138615997-rpphsqk3nf8ms4emb88e409tvbemh089.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvmokQT7i5b9RNofK67czGrf2Qit5mOu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551138615997-rpphsqk3nf8ms4emb88e409tvbemh089.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
